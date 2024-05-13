@@ -12,7 +12,9 @@
   +[Serial Output(PCI)](https://www.tinkercad.com/things/cKVdkyogXOZ)
   +[7 segment display with button(INT, REG)](https://www.tinkercad.com/things/8TSdRIwjUST)
 
-6. Serial Communication
+6. Serial Communication  
+   + [Serial Output](https://www.tinkercad.com/things/joOPFwP0VYM-serial-output)
+   + [Serial Input](https://www.tinkercad.com/things/9yasydLUGJB-serial-inoutput)
 7. ADC
 8. PWM
   + LED
