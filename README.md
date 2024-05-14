@@ -1,6 +1,6 @@
 # Arduino 함수를 이용한 예제들
 
-시뮬레이션은 [ThinkerCAD](https://www.tinkercad.com/)에서 진행해 보시면 됩니다.
+시뮬레이션은 [TinkerCAD](https://www.tinkercad.com/)에서 진행해 보시면 됩니다.
 
 ## 기본 예제
 1. GPIO output
@@ -8,12 +8,21 @@
   + [7 Segments](https://www.tinkercad.com/things/iTgaQUFvTuf)
 3. GPIO input, Get switch status
 4. External interrupt
+  + [Input (Interrupt)](https://www.tinkercad.com/things/6u8BhxqMTaT-3inputint)
 5. Pin change interrupt
-6. Serial Communication
+  + [Serial Output(PCI)](https://www.tinkercad.com/things/cKVdkyogXOZ)
+  + [7 segment display with button(INT, REG)](https://www.tinkercad.com/things/8TSdRIwjUST)
+
+6. Serial Communication  
+  + [Serial Output](https://www.tinkercad.com/things/joOPFwP0VYM-serial-output)
+  + [Serial Input](https://www.tinkercad.com/things/9yasydLUGJB-serial-inoutput)
 7. ADC
+  + [ADC map](https://www.tinkercad.com/things/dASaPhUIBIO)
 8. PWM
-  + LED
-  + DC Motor
+  + [LED](https://www.tinkercad.com/things/iXQAoo5EQi2)
+  + [color LED](https://www.tinkercad.com/things/iXQAoo5EQi2)
+  + [DC Motor](https://www.tinkercad.com/things/9QvffBg2ctE)
+  + [DC Motor(L293)](https://www.tinkercad.com/things/4gsk9CvOitZ)
 9. SPI
 10. I2C
 11. Timer
