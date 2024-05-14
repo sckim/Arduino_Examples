@@ -18,9 +18,12 @@
   + [Serial Output](https://www.tinkercad.com/things/joOPFwP0VYM-serial-output)
   + [Serial Input](https://www.tinkercad.com/things/9yasydLUGJB-serial-inoutput)
 7. ADC
+  + [ADC map](https://www.tinkercad.com/things/dASaPhUIBIO)
 8. PWM
-  + LED
-  + DC Motor
+  + [LED](https://www.tinkercad.com/things/iXQAoo5EQi2)
+  + [color LED](https://www.tinkercad.com/things/iXQAoo5EQi2)
+  + [DC Motor](https://www.tinkercad.com/things/9QvffBg2ctE)
+  + [DC Motor(L293)](https://www.tinkercad.com/things/4gsk9CvOitZ)
 9. SPI
 10. I2C
 11. Timer
