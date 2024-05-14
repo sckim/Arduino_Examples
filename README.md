@@ -1,6 +1,6 @@
 # Arduino 함수를 이용한 예제들
 
-시뮬레이션은 [ThinkerCAD](https://www.tinkercad.com/)에서 진행해 보시면 됩니다.
+시뮬레이션은 [TinkerCAD](https://www.tinkercad.com/)에서 진행해 보시면 됩니다.
 
 ## 기본 예제
 1. GPIO output
