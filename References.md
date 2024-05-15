@@ -35,8 +35,8 @@
 ### 부교재
   + [IT CookBook, 디지털 공학 : 논리회로의 설계 원리](http://www.hanbit.co.kr/store/books/look.php?p_code=B6057054784) 
   + [IT CookBook, 디지털 논리회로 실험 : 120개의 기본 실험과 12개의 텀 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B9776768532) - 실험내용 참조
-   + [IT CookBook, 디지털 논리회로 실험(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B7307907577) - 개정판
+    + [IT CookBook, 디지털 논리회로 실험(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B7307907577) - 개정판
   + [IT CookBook, VHDL을 이용한 FPGA 디지털 설계 : 실습부터 응용까지](https://www.hanbit.co.kr/store/books/look.php?p_code=B5175626637) - VHDL로 실험 (절판)
   + [IT CookBook, 디지털 논리회로(개정3판) : 이론, 실습, 시뮬레이션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4026954710) - 수업교재
-   + [IT CookBook, 디지털 논리회로(4판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2132529019) - 개정판
+    + [IT CookBook, 디지털 논리회로(4판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2132529019) - 개정판
   + [Verilog HDL 회로설계실습](http://www.21cbook.co.kr/shop/mall/detail.htm?ass_code=AS1054016526&p_code=p1266477755)
