@@ -15,6 +15,14 @@
 
 ### 주 교재
   + [디지털회로설계 1학기](https://docs.google.com/document/d/1bZQ-erMv9pfZ_EaOjttLqtWKwrB9LJjc2Rr6ZV8WVdU/edit#heading=h.k9eyejco9imf)
+  +[Multisim을 이용한 조합논리회로 실험](https://docs.google.com/document/d/1WXezy9JFQiraSLnUy9R7dk9Pz-jLC-JfszJM1WIOl5E/edit)
+  +[Quartus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/18SPKDoWC6wiWRv3qgELFiMcgOY7u5xflKEo1A7NmJGI/edit)
+  +[Proteus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/1fc-gf7ssCuh3Qt104MFrx15XqotCBZvXcE7OXDTSIRw/edit)
+  +[디지털회로설계 1학기 요약](https://docs.google.com/presentation/d/1sHfgn5A1mmWyktMvX-ZJ0U4EncJuHBh_kgtSChQBhJ0/edit)
 
-###테스트
+  +[디지털시스템설계 2학기](https://docs.google.com/document/d/1JOVZyL-vZb2duroJXNOtUF97xOte-h8ld19ecXp5KbA/edit#)
+  +[Multisim을 이용한 순차논리회로 실험](https://docs.google.com/document/d/1jX-wdGTK424XunvFu4a4CxtR17Vvwe2NsozZ4Cq2cl0/edit?usp=sharing)
+  +[Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)
+  +[Quartus II를 이용한 순차논리회로 실험](https://docs.google.com/document/d/18B2oY9i0UkC5DJaRiA0vmYNfsSaPw23wI-6OQMqPB7Y/edit#heading=h.ftlyrczeeu2t)
+  
 
