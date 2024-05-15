@@ -28,9 +28,15 @@
   + [VHDL을 이용한 디지털논리회로 실험](https://docs.google.com/document/d/1QnSiASvyjXRI05C4ja5JJ088FYP6Y6HgX1-tDSVPLj0/edit)
   + 
   + [Quick start for Quartus II beginner](https://docs.google.com/presentation/d/18j-begNOharpEPKI-R-xWbx-M1LuCpvNgQpCkMd4DR0/edit#slide=id.p199)  
-  + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit)  
+  + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit) (파일 X)
   + [디지털공학설계 프로젝트](https://docs.google.com/document/d/1a1uXKTMbp454xh7xyBE__sCX-Tz9FcH59CkIt0Ekvuk/edit)  
   + [기본 기자재 사용법](https://docs.google.com/document/d/1CT7DEjpvUo8k-rZgj-sostvh7wYd96P9-JkmPPQ7_Yc/edit#heading=h.4mhwsmka56fq)  
   + [HDL_참고자료](https://docs.google.com/document/d/1-BsSWZ0jUiByqO8aIykDkd2YqG6qTr4t7QHiIuCGmmo/edit#heading=h.qm1mmt3jvnqu)  
-  
-
+### 부교재
+  + [IT CookBook, 디지털 공학 : 논리회로의 설계 원리](http://www.hanbit.co.kr/store/books/look.php?p_code=B6057054784) 
+  + [IT CookBook, 디지털 논리회로 실험 : 120개의 기본 실험과 12개의 텀 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B9776768532) - 실험내용 참조
+   + [IT CookBook, 디지털 논리회로 실험(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B7307907577) - 개정판
+  + [IT CookBook, VHDL을 이용한 FPGA 디지털 설계 : 실습부터 응용까지](https://www.hanbit.co.kr/store/books/look.php?p_code=B5175626637) - VHDL로 실험 (절판)
+  + [IT CookBook, 디지털 논리회로(개정3판) : 이론, 실습, 시뮬레이션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4026954710) - 수업교재
+   + [IT CookBook, 디지털 논리회로(4판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2132529019) - 개정판
+  + [Verilog HDL 회로설계실습](http://www.21cbook.co.kr/shop/mall/detail.htm?ass_code=AS1054016526&p_code=p1266477755)
