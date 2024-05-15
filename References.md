@@ -27,15 +27,15 @@
   + 
   + [VHDL을 이용한 디지털논리회로 실험](https://docs.google.com/document/d/1QnSiA SvyjXRI05C4ja5JJ088FYP6Y6HgX1-tDSVPLj0/edit)
   + 
-  + [Quick start for Quartus II beginner](https://docs.google.com/presentation/d/18j-begNOharpEPKI-R-xWbx-M1LuCpvNgQpCkMd4DR0/edit#slide=id.p199)
-  + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit)
-  + [디지털공학설계 프로젝트](https://docs.google.com/document/d/1a1uXKTMbp454xh7xyBE__sCX-Tz9FcH59CkIt0Ekvuk/edit)
-  + [기본 기자재 사용법](https://docs.google.com/document/d/1CT7DEjpvUo8k-rZgj-sostvh7wYd96P9-JkmPPQ7_Yc/edit#heading=h.4mhwsmka56fq)
-  + [HDL_참고자료](https://docs.google.com/document/d/1-BsSWZ0jUiByqO8aIykDkd2YqG6qTr4t7QHiIuCGmmo/edit#heading=h.qm1mmt3jvnqu)
+  + [Quick start for Quartus II beginner](https://docs.google.com/presentation/d/18j-begNOharpEPKI-R-xWbx-M1LuCpvNgQpCkMd4DR0/edit#slide=id.p199)  
+  + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit)  
+  + [디지털공학설계 프로젝트](https://docs.google.com/document/d/1a1uXKTMbp454xh7xyBE__sCX-Tz9FcH59CkIt0Ekvuk/edit)  
+  + [기본 기자재 사용법](https://docs.google.com/document/d/1CT7DEjpvUo8k-rZgj-sostvh7wYd96P9-JkmPPQ7_Yc/edit#heading=h.4mhwsmka56fq)  
+  + [HDL_참고자료](https://docs.google.com/document/d/1-BsSWZ0jUiByqO8aIykDkd2YqG6qTr4t7QHiIuCGmmo/edit#heading=h.qm1mmt3jvnqu)  
 
-  + [How a computer works](https://www.youtube.com/watch?v=5f3NJnvnk7k&list=WL&index=64&ab_channel=ImprobableMatter)
-  + [How a CPU works](https://www.youtube.com/watch?v=cNN_tTXABUA&ab_channel=InOneLesson)
-  + [CPU는 어떻게 작동할까?](https://www.youtube.com/watch?v=Fg00LN30Ezg&list=PLIffQVR0ELU9U4O-Eaft0kJ30HyzOdKXf&index=252&ab_channel=bRd3D)
-  + ㅁㄴㅇㄹ
+  + [How a computer works](https://www.youtube.com/watch?v=5f3NJnvnk7k&list=WL&index=64&ab_channel=ImprobableMatter)  
+  + [How a CPU works](https://www.youtube.com/watch?v=cNN_tTXABUA&ab_channel=InOneLesson)  
+  + [CPU는 어떻게 작동할까?](https://www.youtube.com/watch?v=Fg00LN30Ezg&list=PLIffQVR0ELU9U4O-Eaft0kJ30HyzOdKXf&index=252&ab_channel=bRd3D)  
+  + ㅁㄴㅇㄹ  
   + 가나다라마바사
   + 아자차카
