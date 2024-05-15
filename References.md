@@ -15,3 +15,5 @@
 
 ### 주 교재
   + [디지털회로설계 1학기](https://docs.google.com/document/d/1bZQ-erMv9pfZ_EaOjttLqtWKwrB9LJjc2Rr6ZV8WVdU/edit#heading=h.k9eyejco9imf)
+
+###테스트
