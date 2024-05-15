@@ -15,20 +15,16 @@
 
 ### 주 교재
   + [디지털회로설계 1학기](https://docs.google.com/document/d/1bZQ-erMv9pfZ_EaOjttLqtWKwrB9LJjc2Rr6ZV8WVdU/edit#heading=h.k9eyejco9imf)
-  + [Multisim을 이용한 조합논리회로 실험](https://docs.google.com/document/d/1WXezy9JFQiraSLnUy9R7dk9Pz-jLC-JfszJM1WIOl5E/edit)
-  + [Quartus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/18SPKDoWC6wiWRv3qgELFiMcgOY7u5xflKEo1A7NmJGI/edit)
-  + [Proteus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/1fc-gf7ssCuh3Qt104MFrx15XqotCBZvXcE7OXDTSIRw/edit)
-  + [디지털회로설계 1학기 요약](https://docs.google.com/presentation/d/1sHfgn5A1mmWyktMvX-ZJ0U4EncJuHBh_kgtSChQBhJ0/edit)
-  + 
+    + [Multisim을 이용한 조합논리회로 실험](https://docs.google.com/document/d/1WXezy9JFQiraSLnUy9R7dk9Pz-jLC-JfszJM1WIOl5E/edit)
+    + [Quartus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/18SPKDoWC6wiWRv3qgELFiMcgOY7u5xflKEo1A7NmJGI/edit)
+    + [Proteus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/1fc-gf7ssCuh3Qt104MFrx15XqotCBZvXcE7OXDTSIRw/edit)
+    + [디지털회로설계 1학기 요약](https://docs.google.com/presentation/d/1sHfgn5A1mmWyktMvX-ZJ0U4EncJuHBh_kgtSChQBhJ0/edit)
   + [디지털시스템설계 2학기](https://docs.google.com/document/d/1JOVZyL-vZb2duroJXNOtUF97xOte-h8ld19ecXp5KbA/edit#)
-  + [Multisim을 이용한 순차논리회로 실험](https://docs.google.com/document/d/1jX-wdGTK424XunvFu4a4CxtR17Vvwe2NsozZ4Cq2cl0/edit?usp=sharing)
-  + [Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)
-  + [Quartus II를 이용한 순차논리회로 실험](https://docs.google.com/document/d/18B2oY9i0UkC5DJaRiA0vmYNfsSaPw23wI-6OQMqPB7Y/edit#heading=h.ftlyrczeeu2t)
-  + 
+    + [Multisim을 이용한 순차논리회로 실험](https://docs.google.com/document/d/1jX-wdGTK424XunvFu4a4CxtR17Vvwe2NsozZ4Cq2cl0/edit?usp=sharing)
+    + [Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)
+    + [Quartus II를 이용한 순차논리회로 실험](https://docs.google.com/document/d/18B2oY9i0UkC5DJaRiA0vmYNfsSaPw23wI-6OQMqPB7Y/edit#heading=h.ftlyrczeeu2t)
   + [VHDL을 이용한 디지털논리회로 실험](https://docs.google.com/document/d/1QnSiASvyjXRI05C4ja5JJ088FYP6Y6HgX1-tDSVPLj0/edit)
-  + 
   + [Quick start for Quartus II beginner](https://docs.google.com/presentation/d/18j-begNOharpEPKI-R-xWbx-M1LuCpvNgQpCkMd4DR0/edit#slide=id.p199)  
-  + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit) (파일 X)
   + [디지털공학설계 프로젝트](https://docs.google.com/document/d/1a1uXKTMbp454xh7xyBE__sCX-Tz9FcH59CkIt0Ekvuk/edit)  
   + [기본 기자재 사용법](https://docs.google.com/document/d/1CT7DEjpvUo8k-rZgj-sostvh7wYd96P9-JkmPPQ7_Yc/edit#heading=h.4mhwsmka56fq)  
   + [HDL_참고자료](https://docs.google.com/document/d/1-BsSWZ0jUiByqO8aIykDkd2YqG6qTr4t7QHiIuCGmmo/edit#heading=h.qm1mmt3jvnqu)  
@@ -41,10 +37,6 @@
   + [IT CookBook, 디지털 논리회로(개정3판) : 이론, 실습, 시뮬레이션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4026954710) - 수업교재
     + [IT CookBook, 디지털 논리회로(4판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2132529019) - 개정판
   + [Verilog HDL 회로설계실습](http://www.21cbook.co.kr/shop/mall/detail.htm?ass_code=AS1054016526&p_code=p1266477755)
-
-### 전기전자 이론
-  + [Electronics-Tutorials](http://www.electronics-tutorials.ws/)  
-  + [컴퓨터 구조](https://docs.google.com/document/d/1I6H6WaLa92_f1gaeHyc-K8BmPM5D-ozzSq8G6PRg6zw/edit#heading=h.f1zj2oxpta3s) (링크 이상)
 
 ### 회로 시뮬레이션 툴
   + [Multisim](https://docs.google.com/presentation/d/1poD0uG6-662fNo4oJkRor2czOui1oqlAHBsOuF0cdbI/edit?usp=sharing) (Analog & Digital simulation, 사용자 편의성이 우수함, PIC uC simulator)
@@ -61,7 +53,7 @@
   + [Circuit Simulator and Editor](https://thumbsdb.herokuapp.com/circuit/) (Web 기반) - Proteus와 같이 전류 흐름을 보여줌  
 
 ### 동영상 모음
-  + [Digital Electronics](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) by NESO, youtube (영어로 디지털 공학을 공부하고 싶은 학생들에게 강추 혹은 영어 공부를 하고 싶은 학생들에게도 도움이 될 것입니다.)  
+  + [Digital Electronics](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) by NESO (영어로 디지털 공학을 공부하고 싶은 학생들에게 강추. 혹은 영어 공부를 하고 싶은 학생들에게도 도움이 될 것입니다.)  
   + [Digital Electronics](https://www.youtube.com/watch?v=lKdPklqCLjM&list=PLiivzYNnIS6FIUtKiG5-R3L8Sbx_jRv6B&ab_channel=MovieHQ) by MovieHQ (NESO보다 발음이 좋고, 강의 자료가 별도로 웹에서 제공)  
   + [Zahi Haddad](https://www.youtube.com/playlist?list=PL21KuaIMCPGoiDogGSxbBtnkmBMM_-6o3) , NESO와 유사  
   + [Digital Experiments](https://www.youtube.com/watch?v=howQ05z4v7Q&list=PL5FF254536988FB37) by Derek Molloy (실험에 대한 내용)  
