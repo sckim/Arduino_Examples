@@ -1,11 +1,21 @@
 # Arduino 함수를 이용한 예제들
-
 시뮬레이션은 [TinkerCAD](https://www.tinkercad.com/)에서 진행해 보시면 됩니다.
 
+## 준비작업
+[Visual Studio Code](https://visualstudio.microsoft.com/) 개발 환경에서 [PlatformIO extension](https://marketplace.visualstudio.com/publishers/platformio)를 활용하여 개발하였기에
+[Examples](Examples/) 폴더의 코드 중 하나를 [Src](Src/) 디렉토리에 복사하여 진행한다.
+
 ## 기본 예제
+아래는 각 코드를 Thinker로 시뮬레이션할 수 있는 링크이다.
+주의할 점은 코드 첫줄의 아래 라인을 리마크 시킨다.
+``` C
+#include <Arduino.h> // Remove this line if you run in the TinkerCAD
+=>
+//#include <Arduino.h> // Remove this line if you run in the TinkerCAD
+```
 1. GPIO output
-  + [LED blink](https://www.tinkercad.com/things/9tTlsAQfxbS)
-  + [7 Segments](https://www.tinkercad.com/things/iTgaQUFvTuf)
+  + [LED blink](https://www.tinkercad.com/things/9tTlsAQfxbS) ([Source](/Examples/blink.cpp))
+  + [7 Segments](https://www.tinkercad.com/things/iTgaQUFvTuf) ([Source](/Examples/7%20segments.cpp))
 3. GPIO input, Get switch status
 4. External interrupt
   + [Input (Interrupt)](https://www.tinkercad.com/things/6u8BhxqMTaT-3inputint)
