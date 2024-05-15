@@ -12,3 +12,6 @@
   + [How a computer works](https://www.youtube.com/watch?v=5f3NJnvnk7k&list=WL&index=64&ab_channel=ImprobableMatter)
   + [How a CPU works](https://www.youtube.com/watch?v=cNN_tTXABUA&ab_channel=InOneLesson)
   + [CPU는 어떻게 작동할까?](https://www.youtube.com/watch?v=Fg00LN30Ezg&list=PLIffQVR0ELU9U4O-Eaft0kJ30HyzOdKXf&index=252&ab_channel=bRd3D)
+
+### 주 교재
+  + [디지털회로설계 1학기](https://docs.google.com/document/d/1bZQ-erMv9pfZ_EaOjttLqtWKwrB9LJjc2Rr6ZV8WVdU/edit#heading=h.k9eyejco9imf)
