@@ -25,7 +25,7 @@
   + [Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)
   + [Quartus II를 이용한 순차논리회로 실험](https://docs.google.com/document/d/18B2oY9i0UkC5DJaRiA0vmYNfsSaPw23wI-6OQMqPB7Y/edit#heading=h.ftlyrczeeu2t)
   + 
-  + [VHDL을 이용한 디지털논리회로 실험](https://docs.google.com/document/d/1QnSiA SvyjXRI05C4ja5JJ088FYP6Y6HgX1-tDSVPLj0/edit)
+  + [VHDL을 이용한 디지털논리회로 실험](https://docs.google.com/document/d/1QnSiASvyjXRI05C4ja5JJ088FYP6Y6HgX1-tDSVPLj0/edit)
   + 
   + [Quick start for Quartus II beginner](https://docs.google.com/presentation/d/18j-begNOharpEPKI-R-xWbx-M1LuCpvNgQpCkMd4DR0/edit#slide=id.p199)  
   + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit)  
