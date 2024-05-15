@@ -5,6 +5,10 @@
 [Visual Studio Code](https://visualstudio.microsoft.com/) 개발 환경에서 [PlatformIO extension](https://marketplace.visualstudio.com/publishers/platformio)를 활용하여 개발하였기에
 [Examples](Examples/) 폴더의 코드 중 하나를 [Src](Src/) 디렉토리에 복사하여 진행한다.
 
+## Pinmap 정보
+![Arduinio UNO R3](images/arduino_uno_r3_pinmap.png)
+
+
 ## 기본 예제
 아래는 각 코드를 Thinker로 시뮬레이션할 수 있는 링크이다.
 주의할 점은 코드 첫줄의 아래 라인을 리마크 시킨다.
