@@ -19,13 +19,14 @@
   + [Quartus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/18SPKDoWC6wiWRv3qgELFiMcgOY7u5xflKEo1A7NmJGI/edit)
   + [Proteus를 이용한 조합논리회로 실험](https://docs.google.com/document/d/1fc-gf7ssCuh3Qt104MFrx15XqotCBZvXcE7OXDTSIRw/edit)
   + [디지털회로설계 1학기 요약](https://docs.google.com/presentation/d/1sHfgn5A1mmWyktMvX-ZJ0U4EncJuHBh_kgtSChQBhJ0/edit)
-
+  +
   + [디지털시스템설계 2학기](https://docs.google.com/document/d/1JOVZyL-vZb2duroJXNOtUF97xOte-h8ld19ecXp5KbA/edit#)
   + [Multisim을 이용한 순차논리회로 실험](https://docs.google.com/document/d/1jX-wdGTK424XunvFu4a4CxtR17Vvwe2NsozZ4Cq2cl0/edit?usp=sharing)
   + [Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)
   + [Quartus II를 이용한 순차논리회로 실험](https://docs.google.com/document/d/18B2oY9i0UkC5DJaRiA0vmYNfsSaPw23wI-6OQMqPB7Y/edit#heading=h.ftlyrczeeu2t)
-
+  +
   + [VHDL을 이용한 디지털논리회로 실험](https://docs.google.com/document/d/1QnSiASvyjXRI05C4ja5JJ088FYP6Y6HgX1-tDSVPLj0/edit)
+  +
   + [Quick start for Quartus II beginner](https://docs.google.com/presentation/d/18j-begNOharpEPKI-R-xWbx-M1LuCpvNgQpCkMd4DR0/edit#slide=id.p199)
   + [디지털 설계 주제](https://docs.google.com/document/d/1wAj_MebUgQ0qlu-vXQiWexZoEeB2daEyh1gT_iczlHA/edit)
   + [디지털공학설계 프로젝트](https://docs.google.com/document/d/1a1uXKTMbp454xh7xyBE__sCX-Tz9FcH59CkIt0Ekvuk/edit)
