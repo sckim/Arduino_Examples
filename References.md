@@ -32,6 +32,7 @@
   + [디지털공학설계 프로젝트](https://docs.google.com/document/d/1a1uXKTMbp454xh7xyBE__sCX-Tz9FcH59CkIt0Ekvuk/edit)  
   + [기본 기자재 사용법](https://docs.google.com/document/d/1CT7DEjpvUo8k-rZgj-sostvh7wYd96P9-JkmPPQ7_Yc/edit#heading=h.4mhwsmka56fq)  
   + [HDL_참고자료](https://docs.google.com/document/d/1-BsSWZ0jUiByqO8aIykDkd2YqG6qTr4t7QHiIuCGmmo/edit#heading=h.qm1mmt3jvnqu)  
+
 ### 부교재
   + [IT CookBook, 디지털 공학 : 논리회로의 설계 원리](http://www.hanbit.co.kr/store/books/look.php?p_code=B6057054784) 
   + [IT CookBook, 디지털 논리회로 실험 : 120개의 기본 실험과 12개의 텀 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B9776768532) - 실험내용 참조
@@ -40,3 +41,33 @@
   + [IT CookBook, 디지털 논리회로(개정3판) : 이론, 실습, 시뮬레이션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4026954710) - 수업교재
     + [IT CookBook, 디지털 논리회로(4판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2132529019) - 개정판
   + [Verilog HDL 회로설계실습](http://www.21cbook.co.kr/shop/mall/detail.htm?ass_code=AS1054016526&p_code=p1266477755)
+
+### 전기전자 이론
+  + [Electronics-Tutorials](http://www.electronics-tutorials.ws/)  
+  + [컴퓨터 구조](https://docs.google.com/document/d/1I6H6WaLa92_f1gaeHyc-K8BmPM5D-ozzSq8G6PRg6zw/edit#heading=h.f1zj2oxpta3s) (링크 이상)
+
+### 회로 시뮬레이션 툴
+  + [Multisim](https://docs.google.com/presentation/d/1poD0uG6-662fNo4oJkRor2czOui1oqlAHBsOuF0cdbI/edit?usp=sharing) (Analog & Digital simulation, 사용자 편의성이 우수함, PIC uC simulator)
+    + [Popular NI Multisim & National Instruments videos](https://www.youtube.com/watch?v=2SOyJYQQflU&list=PLu1nD_mMVxg8bmC_0yFLNKzGODq0W1XsS)  
+    + [나만의 새로운 소자를 만드는 방법(Creating a Custom Component in NI Multisim)](http://www.ni.com/white-paper/3173/en/)  
+    + [How to simulate a NOT gate using Multisim](http://www.youtube.com/watch?feature=player_detailpage&v=sueAaUWJ11s)  
+    + PCB [Footprint](https://docs.google.com/presentation/d/1cFTRgU7HPyO8E8_AEFxPmhaDBpH7rjXNzSyugOGxeLs/edit?usp=sharing)  
+    + [Ultiboard를 이용한 PCB 제작](https://docs.google.com/presentation/d/1nMXwixssLBOqzYLduVgtSWrC-6_WYUgyuecne449a7Y/edit?usp=sharing)  
+  + Proteus (Analog & Digital simulation, AVR uC simulator)
+  + [Logisim](http://www.cburch.com/logisim/)  
+  + Quartus (FPGA 합성 및 시뮬레이션)  
+    + [VHDL 조합회로](https://docs.google.com/presentation/d/1BjD-H9moOcMvb1zwggAXlGYAI9Yd7QU3QTlWK2AHvaI/edit?usp=sharing) - 디지털시스템 설계 및 실습 교재, 전가산기 디코더 등, [먹스 등](https://docs.google.com/presentation/d/1SizlKxc0lWXqiBEI4zicchqBCxuHmQEosjqPHeoGdX4/edit?usp=sharing)  
+    + [Testbench 활용](https://ftp.intel.com/Public/Pub/fpgaup/pub/Teaching_Materials/current/Tutorials/VHDL/ModelSim_Tutorial.pdf)  
+  + [Circuit Simulator and Editor](https://thumbsdb.herokuapp.com/circuit/) (Web 기반) - Proteus와 같이 전류 흐름을 보여줌  
+
+### 동영상 모음
+  + [Digital Electronics](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) by NESO, youtube (영어로 디지털 공학을 공부하고 싶은 학생들에게 강추 혹은 영어 공부를 하고 싶은 학생들에게도 도움이 될 것입니다.)  
+  + [Digital Electronics](https://www.youtube.com/watch?v=lKdPklqCLjM&list=PLiivzYNnIS6FIUtKiG5-R3L8Sbx_jRv6B&ab_channel=MovieHQ) by MovieHQ (NESO보다 발음이 좋고, 강의 자료가 별도로 웹에서 제공)  
+  + [Zahi Haddad](https://www.youtube.com/playlist?list=PL21KuaIMCPGoiDogGSxbBtnkmBMM_-6o3) , NESO와 유사  
+  + [Digital Experiments](https://www.youtube.com/watch?v=howQ05z4v7Q&list=PL5FF254536988FB37) by Derek Molloy (실험에 대한 내용)  
+  + [진장민 학생이 제작한 동영상](https://www.youtube.com/channel/UCVRy6e_tIgzIkpe5sx_K1Gw/videos)  
+
+### 부품 관련
+  + [부품 구매](http://cafe.daum.net/hknuspal/VwKt/31)  
+  + [TTL Series](https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits), [CMOS ICs](https://drive.google.com/file/d/11gZLN074GNmWc9UCImEGm2KWRXzc3tzT/view?usp=sharing)  
+  + [TTL과 CMOS 비교](https://drive.google.com/file/d/1WbnYYTcyzA8Bul5d0w4GQ-1lZQbIQmBZ/view?usp=sharing)  
