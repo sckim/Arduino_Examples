@@ -61,5 +61,6 @@
 
 ### 부품 관련
   + [부품 구매](http://cafe.daum.net/hknuspal/VwKt/31)  
-  + [TTL Series](https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits), [CMOS ICs](https://drive.google.com/file/d/11gZLN074GNmWc9UCImEGm2KWRXzc3tzT/view?usp=sharing)  
+  + [TTL Series](https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits), [TTL ICs](https://drive.google.com/file/d/11pnTdZR92YLRPxdwI5aEx50hvlMqAryx/view?usp=sharing)
+  + [CMOS Series](https://en.wikipedia.org/wiki/4000-series_integrated_circuits), [CMOS ICs](https://drive.google.com/file/d/11gZLN074GNmWc9UCImEGm2KWRXzc3tzT/view?usp=sharing)  
   + [TTL과 CMOS 비교](https://drive.google.com/file/d/1WbnYYTcyzA8Bul5d0w4GQ-1lZQbIQmBZ/view?usp=sharing)  
