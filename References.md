@@ -22,7 +22,8 @@
 
   + [디지털시스템설계 2학기](https://docs.google.com/document/d/1JOVZyL-vZb2duroJXNOtUF97xOte-h8ld19ecXp5KbA/edit#)
   + [Multisim을 이용한 순차논리회로 실험](https://docs.google.com/document/d/1jX-wdGTK424XunvFu4a4CxtR17Vvwe2NsozZ4Cq2cl0/edit?usp=sharing)
-  + [Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)
+  + [Proteus를 이용한 순차논리회로 실험](https://docs.google.com/document/d/1Bt5hzK4daAi6tXBZO7RS8zhi8J9hEL-TYFtcSkawnpE/edit?usp=sharing)   
+  
   + [Quartus II를 이용한 순차논리회로 실험](https://docs.google.com/document/d/18B2oY9i0UkC5DJaRiA0vmYNfsSaPw23wI-6OQMqPB7Y/edit#heading=h.ftlyrczeeu2t)
   
 
