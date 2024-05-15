@@ -6,7 +6,7 @@
   + [Syntax and Structure of C](https://mu.microchip.com/syntax-and-structure-of-c) - Microchip 사에서 제공하는 온라인 교육 (136분)
 
 ### 전자회로 
-  + [Basic Electronics Tutorials and Revision](https://www.electronics-tutorials.ws/) - 기초 전자회로 (아날로그, 디지털, 전자기학 등) 
+  + [Basic Electronics Tutorials and Revision](https://www.electronics-tutorials.ws/) - 기초 전자회로의 설명 (아날로그, 디지털, 전자기학 등) 
 
 ### 동영상
   + [How a computer works](https://www.youtube.com/watch?v=5f3NJnvnk7k&list=WL&index=64&ab_channel=ImprobableMatter)
