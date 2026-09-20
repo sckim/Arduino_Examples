@@ -8,10 +8,6 @@
 __vm
 .gitattributes
 
-# ---- 이 저장소 범위 밖 (로컬에만 보관) ----
-/15_Integrated_Projects/
-/99_Archive/
-
 # ---- 빌드 산출물 ----
 build/
 Build/
