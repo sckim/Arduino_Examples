@@ -7,3 +7,19 @@
 *   `EEPROM.write(address, value)`: 특정 주소에 데이터 쓰기
 *   `EEPROM.read(address)`: 특정 주소의 데이터 읽기
 *   `EEPROM.update(address, value)`: 값이 바뀔 때만 쓰기(수명 연장)
+
+---
+
+<!-- AUTO-INDEX:BEGIN -->
+
+## 🗂 폴더 현황 (자동 생성)
+
+기준일 2026-09-20. 예제 폴더 3개, 회로도 보유 0개.
+
+| 폴더 | 소스 | Proteus 회로도 |
+|---|---|---|
+| `EEPROM` | `eeprom.ino` | — |
+| `eeprom_24c02` | `eeprom_24c02.ino` | — |
+| `eeprom_write` | `eeprom_write.ino` | — |
+
+<!-- AUTO-INDEX:END -->

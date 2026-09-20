@@ -80,3 +80,31 @@
 
 ---
 ※ 각 폴더 내의 `README.md`에서 상세한 학습 목표와 하드웨어 연결 방법을 확인할 수 있습니다.
+
+---
+
+<!-- AUTO-INDEX:BEGIN -->
+
+## 🗂 폴더 현황 (자동 생성)
+
+기준일 2026-09-20. 예제 폴더 117개, 외부 라이브러리 7개, 회로도 보유 폴더 36개.
+
+| 폴더 | 예제 | 회로도 보유 | 비고 |
+|---|---|---|---|
+| [`00_Introduction`](./00_Introduction/) | 0 | 0 | 파일만 보유 |
+| [`01_Digital_IO`](./01_Digital_IO/) | 6 | 3 |  |
+| [`02_Segment_Display`](./02_Segment_Display/) | 3 | 2 |  |
+| [`03_Serial_Comm`](./03_Serial_Comm/) | 15 | 3 | 외부 라이브러리 1개 포함 |
+| [`04_ADC`](./04_ADC/) | 3 | 2 |  |
+| [`05_Interrupts`](./05_Interrupts/) | 3 | 3 |  |
+| [`06_Timers_Counters`](./06_Timers_Counters/) | 6 | 4 |  |
+| [`07_PWM`](./07_PWM/) | 3 | 3 |  |
+| [`08_Motors`](./08_Motors/) | 3 | 2 |  |
+| [`09_Simple_Sensors`](./09_Simple_Sensors/) | 14 | 1 | 외부 라이브러리 1개 포함 |
+| [`10_I2C_Devices`](./10_I2C_Devices/) | 34 | 6 | 외부 라이브러리 4개 포함 |
+| [`11_SPI_Devices`](./11_SPI_Devices/) | 14 | 4 | 외부 라이브러리 1개 포함 |
+| [`12_OneWire_Devices`](./12_OneWire_Devices/) | 2 | 1 |  |
+| [`13_EEPROM_Storage`](./13_EEPROM_Storage/) | 3 | 0 |  |
+| [`14_Advanced_Internal`](./14_Advanced_Internal/) | 8 | 2 |  |
+
+<!-- AUTO-INDEX:END -->

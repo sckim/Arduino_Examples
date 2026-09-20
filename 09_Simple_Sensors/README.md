@@ -11,3 +11,31 @@
 
 ## 💻 주요 함수
 *   `pulseIn(pin, state)`: 신호의 길이를 마이크로초 단위로 측정
+
+---
+
+<!-- AUTO-INDEX:BEGIN -->
+
+## 🗂 폴더 현황 (자동 생성)
+
+기준일 2026-09-20. 예제 폴더 14개, 외부 라이브러리 1개, 회로도 보유 1개, `Project Backups` 백업본 2개.
+
+| 폴더 | 소스 | Proteus 회로도 |
+|---|---|---|
+| `ColorSensor` | `ColorSensor.ino` | — |
+| `Encoder` | `Encoder.ino` | `AVR328P_Encoder.pdsprj` (백업 2) |
+| `Fire` | 1개 파일 | — |
+| `FlexiForce` | `press.pde` | — |
+| `HC_SR04` | `HC_SR04.ino` | — |
+| `Joystick` | `Joystick.ino` | — |
+| `Keypad` | `Keypad.ino` | — |
+| `PS2Keyboard` | 6개 파일 · 외부 라이브러리 | — |
+| `Pusein` | `Pusein.ino` | — |
+| `RF433_Receiver` | `Receiver.ino` | — |
+| `RF433_Transmitter` | `Transmitter.ino` | — |
+| `RotaryEncoder` | `RotaryEncoder.ino` | — |
+| `SFR05` | `SFR05.ino` | — |
+| `ShowDistance` | `ShowDistance.ino` | — |
+| `Ultrasound` | `Ultrasound.ino` | — |
+
+<!-- AUTO-INDEX:END -->

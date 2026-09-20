@@ -10,3 +10,19 @@
 ## 💻 핵심 개념
 *   **Common Cathode/Anode**: 공통 단자의 연결 방식 차이 이해
 *   **배열(Array) 활용**: 각 숫자에 대응하는 핀 상태를 배열로 관리하여 효율적으로 코딩하는 법
+
+---
+
+<!-- AUTO-INDEX:BEGIN -->
+
+## 🗂 폴더 현황 (자동 생성)
+
+기준일 2026-09-20. 예제 폴더 3개, 회로도 보유 2개, `Project Backups` 백업본 1개.
+
+| 폴더 | 소스 | Proteus 회로도 |
+|---|---|---|
+| `7Segments` | `7Segments.ino` | `Arduino 328.pdsprj` |
+| `SegDisplayInt` | `SegDisplayInt.ino` | — |
+| `Two_7Segments` | 1개 파일 | `Arduino 328.pdsprj` (백업 1) |
+
+<!-- AUTO-INDEX:END -->
