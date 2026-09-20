@@ -1,0 +1,72 @@
+.svn
+.pio
+.vscode
+.settings
+.vs
+.metadata
+.vm_sys
+__vm
+.gitattributes
+
+# ---- 이 저장소 범위 밖 (로컬에만 보관) ----
+/15_Integrated_Projects/
+/99_Archive/
+
+# ---- 빌드 산출물 ----
+build/
+Build/
+Debug/
+Release/
+.pio/
+__pycache__/
+*.ino.elf
+*.ino.hex
+*.ino.eep
+*.ino.with_bootloader.hex
+*.map
+*.lss
+*.lst
+
+*.pdsbak
+*.Soochan Kim.workspace
+
+
+.project
+.cproject
+*.ino.cpp
+.DS_Store
+.suo
+
+# Prerequisites
+*.d
+*.eep
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
