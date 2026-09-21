@@ -17,12 +17,14 @@
 
 ## 🗂 폴더 현황 (자동 생성)
 
-기준일 2026-09-20. 예제 폴더 3개, 회로도 보유 2개, `Project Backups` 백업본 1개.
+기준일 2026-09-21. 예제 3개.
 
-| 폴더 | 소스 | Proteus 회로도 |
+| 폴더 | 소스 | 회로도 |
 |---|---|---|
-| `7Segments` | `7Segments.ino` | `Arduino 328.pdsprj` |
-| `SegDisplayInt` | `SegDisplayInt.ino` | — |
-| `Two_7Segments` | 1개 파일 | `Arduino 328.pdsprj` (백업 1) |
+| `10_7Segments` | `7Segments.ino` | 있음 (Proteus) |
+| `20_BCD_4511` | `BCD_4511_Demo.ino` | 있음 (Proteus) |
+| `30_Two_7Segments` | `Two_7Segments.ino` | 있음 (Proteus) + Wokwi |
+
+> ℹ️ 중복인 `RawPattern`과 타이머+인터럽트를 결합한 `SegDisplayInt`는 `15_Projects/02_Segment_Display_Extended/`로 옮겼습니다. `SegDisplayInt`는 `05_Interrupts`, `06_Timers_Counters`를 먼저 학습한 뒤 시도하세요.
 
 <!-- AUTO-INDEX:END -->

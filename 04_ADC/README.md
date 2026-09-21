@@ -15,12 +15,12 @@
 
 ## 🗂 폴더 현황 (자동 생성)
 
-기준일 2026-09-20. 예제 폴더 3개, 회로도 보유 2개, `Project Backups` 백업본 2개.
+기준일 2026-09-21. 예제 3개.
 
-| 폴더 | 소스 | Proteus 회로도 |
+| 폴더 | 소스 | 회로도 |
 |---|---|---|
-| `ADC_Int` | `ADC_Int.ino` | `Demo3.pdsprj`; `Demo3_SC.pdsprj` (백업 2) |
-| `ADC_multi` | `ADC_multi.ino` | `Demo3.pdsprj` |
-| `AnalogReadSerial` | `AnalogReadSerial.ino` | — |
+| `10_AnalogReadSerial` | `AnalogReadSerial.ino` | — |
+| `20_ADC_multi` | `ADC_multi.ino` | 있음 (Proteus) |
+| `30_ADC_Int` | `ADC_Int.ino` | 있음 (Proteus) |
 
 <!-- AUTO-INDEX:END -->

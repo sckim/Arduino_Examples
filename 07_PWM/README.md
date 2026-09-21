@@ -15,12 +15,12 @@
 
 ## 🗂 폴더 현황 (자동 생성)
 
-기준일 2026-09-20. 예제 폴더 3개, 회로도 보유 3개, `Project Backups` 백업본 2개.
+기준일 2026-09-21. 예제 3개.
 
-| 폴더 | 소스 | Proteus 회로도 |
+| 폴더 | 소스 | 회로도 |
 |---|---|---|
-| `AnalogWrite` | `AnalogInOutSerial.ino` | `Arduino 328.pdsprj` (백업 1) |
-| `Timer0_FastPWM` | `Timer0_FastPWM.ino` | `Arduino 328.pdsprj` (백업 1) |
-| `Timer0_PWM` | `Timer0_PWM.ino` | `Arduino 328.pdsprj` |
+| `10_AnalogWrite` | `AnalogInOutSerial.ino` | 있음 (Proteus) |
+| `20_Timer0_PWM` | `Timer0_PWM.ino` | 있음 (Proteus) |
+| `30_Timer0_FastPWM` | `Timer0_FastPWM.ino` | 있음 (Proteus) |
 
 <!-- AUTO-INDEX:END -->

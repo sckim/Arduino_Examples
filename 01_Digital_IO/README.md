@@ -15,19 +15,49 @@
 
 ---
 
+## 🧩 VS Code + PlatformIO로 예제 실행하기
+
+이 저장소의 예제는 대부분 `.ino` 파일 하나로만 되어 있어서, Arduino IDE에서는 그 파일을 바로 열면 됩니다. 하지만 **VS Code에서 PlatformIO로 빌드/업로드하려면 PlatformIO가 요구하는 프로젝트 구조**(`platformio.ini`, `src/` 폴더 등)가 필요합니다. `10_Blink` 폴더가 바로 그 구조를 갖춘 **템플릿**이니, 이후 예제(`.ino` 파일만 있는 폴더)를 VS Code에서 진행하고 싶다면 이 템플릿을 재사용하세요.
+
+### 1. PlatformIO 설치 (최초 1회)
+1.  VS Code 왼쪽 사이드바의 확장(Extensions) 아이콘 클릭
+2.  "PlatformIO IDE" 검색 후 설치, VS Code 재시작
+
+### 2. `10_Blink` 템플릿 구조 살펴보기
+```
+10_Blink/
+├── platformio.ini   <- 어떤 보드(Uno)/프레임워크(arduino)를 쓸지 정의
+├── src/
+│   └── main.cpp      <- 실제 코드가 들어가는 파일 (.ino 대신 .cpp 사용)
+├── include/, lib/, test/  <- PlatformIO가 요구하는 표준 폴더 (지금은 안 써도 됨)
+```
+
+### 3. 다른 예제를 PlatformIO로 돌리는 방법
+1.  `10_Blink` 폴더를 통째로 복사해서, 원하는 예제 이름으로 붙여넣기 (예: `20_Button_pio`)
+2.  복사한 폴더의 `src/main.cpp`를 열어서, 진행하려는 예제의 `.ino` 파일 내용으로 전부 교체
+    *   `.ino` 파일은 맨 위에 `#include <Arduino.h>` 가 없어도 되지만, `main.cpp`에서는 **반드시 첫 줄에 `#include <Arduino.h>` 를 추가**해야 합니다.
+3.  VS Code에서 `File > Open Folder`로 복사한 폴더를 엶
+4.  하단 상태 표시줄의 체크(✓) 아이콘: 빌드, 오른쪽 화살표(→) 아이콘: 업로드
+5.  `platformio.ini` 안의 `board = uno` 부분은 실제 사용하는 보드에 맞게 필요시 수정
+
+### 4. 더 간단한 대안
+매번 템플릿을 복사하기 번거롭다면, 그냥 **Arduino IDE**에서 `.ino` 파일을 직접 여는 방법이 훨씬 빠릅니다. PlatformIO는 여러 파일/라이브러리로 커지는 프로젝트나, Git 연동·자동완성이 중요한 경우에 유리합니다.
+
+---
+
 <!-- AUTO-INDEX:BEGIN -->
 
 ## 🗂 폴더 현황 (자동 생성)
 
-기준일 2026-09-20. 예제 폴더 6개, 회로도 보유 3개, `Project Backups` 백업본 4개.
+기준일 2026-09-21. 예제 4개.
 
-| 폴더 | 소스 | Proteus 회로도 |
+| 폴더 | 소스 | 회로도 |
 |---|---|---|
-| `Blink` | 1개 파일 | — |
-| `Button` | 1개 파일 | `Arduino 328.pdsprj` (백업 2) |
-| `LED_bar` | `LED_bar.ino` | — |
-| `Morse` | `Morse.ino` | `Arduino_Morse.pdsprj` (백업 2) |
-| `ShiftOut` | `ShiftOut.ino` | `Arduino Uno.DSN` |
-| `_4digits_LED` | `_4digits_LED.ino` | — |
+| `10_Blink` | `src/main.cpp` | 있음 (Proteus) |
+| `20_Button` | `Button.ino` | 있음 (Proteus) + Wokwi |
+| `30_LED_bar` | `LED_bar.ino` | — |
+| `40_ShiftOut` | `ShiftOut.ino` | — |
+
+> ℹ️ **정리 내역**: Blink 중복 변형 5개와 응용 예제 `Morse`는 `15_Projects/01_Digital_IO_Extended/`로, PEMF 전용 통합 코드 `_4digits_LED`는 `20_Applications/`로 옮겼습니다. `10_Blink`는 VS Code+PlatformIO 템플릿으로 유지하고, 나머지는 `.ino` 파일 하나로 단순화했습니다.
 
 <!-- AUTO-INDEX:END -->

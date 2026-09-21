@@ -18,12 +18,13 @@
 
 ## 🗂 폴더 현황 (자동 생성)
 
-기준일 2026-09-20. 예제 폴더 3개, 회로도 보유 2개, `Project Backups` 백업본 4개.
+기준일 2026-09-21. 예제 2개.
 
-| 폴더 | 소스 | Proteus 회로도 |
+| 폴더 | 소스 | 회로도 |
 |---|---|---|
-| `RC_Servo` | `RC_Servo.ino` | — |
-| `Servo1` | `Servo1.ino` | `AVR328P_UART.pdsprj` (백업 2) |
-| `Stepper_motor` | `Stepper_motor.ino` | `AVR328P_Basic.pdsprj` (백업 2) |
+| `10_Servo1` | `Servo1.ino` | 있음 (Proteus) |
+| `30_Stepper_motor` | `Stepper_motor.ino` | 있음 (Proteus) |
+
+> ℹ️ 조이스틱+서보 2개 응용인 `RC_Servo`는 `15_Projects/08_Motors_Extended/`로 옮겼습니다.
 
 <!-- AUTO-INDEX:END -->

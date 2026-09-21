@@ -14,15 +14,14 @@
 
 ## 🗂 폴더 현황 (자동 생성)
 
-기준일 2026-09-20. 예제 폴더 6개, 회로도 보유 4개, `Project Backups` 백업본 4개.
+기준일 2026-09-21. 예제 3개.
 
-| 폴더 | 소스 | Proteus 회로도 |
+| 폴더 | 소스 | 회로도 |
 |---|---|---|
-| `Clock1MHz` | `Clock1MHz.ino` | `LED with UNO.DSN` |
-| `Osc1MHz` | `Osc1MHz.ino` | — |
-| `Timer0_CTC` | `Timer0_CTC.ino` | `Arduino 328.pdsprj` (백업 2) |
-| `Timer_CTC` | `Timer.ino` | `Arduino 328.pdsprj` (백업 1) |
-| `Timer_Overflow` | `Timer_Overflow.ino` | `Arduino 328.pdsprj` (백업 1) |
-| `_2MHz` | `_1MHz.ino` | — |
+| `10_Timer_Overflow` | `Timer_Overflow.ino` | 있음 (Proteus) |
+| `20_Timer_CTC` | `Timer.ino` | 있음 (Proteus) |
+| `40_Osc1MHz` | `Osc1MHz.ino` | — |
+
+> ℹ️ `Timer0_CTC`, `1MHz`, `2MHz`, `Clock1MHz`(세그먼트 결합·중복 변형·수동 레지스터 클럭 생성)는 `15_Projects/06_Timers_Counters_Extended/`로 옮겼습니다.
 
 <!-- AUTO-INDEX:END -->
