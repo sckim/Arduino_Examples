@@ -12,7 +12,7 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
-<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-28 -->
 
 ### 📂 예제 (8개)
 
@@ -24,7 +24,7 @@
 | `05_Interrupts_Extended` |  | 2 | 89 |  | ✓ |  |  |
 | `06_Timers_Counters_Extended` |  | 4 | 134 |  | ✓ |  |  |
 | `08_Motors_Extended` |  | 1 | 32 |  |  |  |  |
-| `09_I2C_Communication_Extended` | Accelerometer | 83 | 16061 |  | ✓ |  |  |
+| `09_I2C_Communication_Extended` | Accelerometer | 83 | 16040 |  | ✓ |  |  |
 | `10_SPI_Communication_Extended` | None | 96 | 14972 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->
