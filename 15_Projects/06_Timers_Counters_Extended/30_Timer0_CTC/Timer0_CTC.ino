@@ -13,11 +13,11 @@ volatile int sec = 0;
 volatile int msec8 = 0;
 volatile int msec16 = 0;
 
-// ÇÉ ÇÏ³ªÇÏ³ª¸¦ °³º°ÀûÀ¸·Î Á¦¾îÇÏ¿© ÇÁ·Î±×·¥ÇÏ´Â ¿¹
+// í•€ í•˜ë‚˜í•˜ë‚˜ë¥¼ ê°œë³„ì ìœ¼ë¡œ ì œì–´í•˜ì—¬ í”„ë¡œê·¸ë¨í•˜ëŠ” ì˜ˆ
 void setup() {
 	for (int i = 0; i < 8; i++) {
-		pinMode(i, OUTPUT);  // pinÀÇ ÀÔÃâ·Â »óÅÂ °áÁ¤
-		digitalWrite(i, HIGH); // ÇöÀç pin Ãâ·ÂÀ» high
+		pinMode(i, OUTPUT);  // pinì˜ ì…ì¶œë ¥ ìƒíƒœ ê²°ì •
+		digitalWrite(i, HIGH); // í˜„ì¬ pin ì¶œë ¥ì„ high
 	}
 	pinMode(13, OUTPUT);
 	pinMode(12, OUTPUT);
@@ -48,7 +48,7 @@ void dispSeg(unsigned char ch) {
 }
 
 void loop() {
-	// foreground·Î Ã³¸®ÇÒ ÀÛ¾÷µé
+	// foregroundë¡œ ì²˜ë¦¬í•  ì‘ì—…ë“¤
 }
 
 //ISR (TIMER0_OVF_vect) {
@@ -61,7 +61,7 @@ ISR(TIMER0_COMPB_vect) {
 	}
 }
 ISR(TIMER0_COMPA_vect) {
-	//background·Î Ã³¸®ÇÒ ÀÛ¾÷µé
+	//backgroundë¡œ ì²˜ë¦¬í•  ì‘ì—…ë“¤
 	msec8++;
 	if (msec8 == 125) {
 		msec8 = 0;

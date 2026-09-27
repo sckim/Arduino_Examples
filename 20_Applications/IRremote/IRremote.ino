@@ -65,7 +65,7 @@ void loop(){
   static int angle = 90;
 
   if( irreceived.decode(&results)) {
-    // ÄÚµå °ªÀ» º¸°í ½ÍÀ» ¶§
+    // ì½”ë“œ ê°’ì„ ë³´ê³  ì‹¶ì„ ë•Œ
     Serial.println(results.value, HEX);
 
     switch(results.value) {
@@ -73,7 +73,7 @@ void loop(){
       case 0xFD8877: speed+=10; break;
       // 8
       case 0xFD9867: speed-=10; break;
-      // 5 ¶Ç´Â >|| ¹öÆ°
+      // 5 ë˜ëŠ” >|| ë²„íŠ¼
       case 0xFDA857:
       case 0xFDA05F: speed=0; break;
       // >>

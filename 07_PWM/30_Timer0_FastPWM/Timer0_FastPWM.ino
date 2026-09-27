@@ -16,7 +16,7 @@ ISR(TIMER0_COMPB_vect)
 	digitalWrite(12, digitalRead(12)^1);
 }
 
-// ÇÉ ÇÏ³ªÇÏ³ª¸¦ °³º°ÀûÀ¸·Î Á¦¾îÇÏ¿© ÇÁ·Î±×·¥ÇÏ´Â ¿¹
+// í•€ í•˜ë‚˜í•˜ë‚˜ë¥¼ ê°œë³„ì ìœ¼ë¡œ ì œì–´í•˜ì—¬ í”„ë¡œê·¸ë¨í•˜ëŠ” ì˜ˆ
 void setup() {
 	pinMode(13, OUTPUT);
 	pinMode(12, OUTPUT);
@@ -50,7 +50,7 @@ void setup() {
 }
 
 void loop() {
-	// foreground·Î Ã³¸®ÇÒ ÀÛ¾÷µé
+	// foregroundë¡œ ì²˜ë¦¬í•  ì‘ì—…ë“¤
   	//OCR0A = map(analogRead(A0), 0, 1023, 0, 255);
     //OCR0B = map(analogRead(A1), 0, 1023, 0, 255);
 }

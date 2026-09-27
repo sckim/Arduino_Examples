@@ -14,14 +14,14 @@ void setup()
         pinMode(i, OUTPUT);
         digitalWrite(i, HIGH);
     }
-    pinMode(8, OUTPUT); // 1ÀÇ ÀÚ¸® ¼±ÅÃ ÇÉ
-    pinMode(9, OUTPUT); // 10ÀÇ ÀÚ¸® ¼±ÅÃ ÇÉ
+    pinMode(8, OUTPUT); // 1ì˜ ìë¦¬ ì„ íƒ í•€
+    pinMode(9, OUTPUT); // 10ì˜ ìë¦¬ ì„ íƒ í•€
 }
 
 void dispSeg(unsigned char ch, unsigned char digit)
 {
-    digitalWrite(8, digit == 0); // 1ÀÇ ÀÚ¸® È°¼ºÈ­ (LOW È°¼ºÈ­ °¡Á¤)
-    digitalWrite(9, digit == 1); // 10ÀÇ ÀÚ¸® È°¼ºÈ­
+    digitalWrite(8, digit == 0); // 1ì˜ ìë¦¬ í™œì„±í™” (LOW í™œì„±í™” ê°€ì •)
+    digitalWrite(9, digit == 1); // 10ì˜ ìë¦¬ í™œì„±í™”
 
     for (int i = 0; i < 8; i++)
     {
@@ -33,12 +33,12 @@ int duration = 0;
 
 void loop()
 {
-    unsigned char tens = num / 10; // 10ÀÇ ÀÚ¸®
-    unsigned char ones = num % 10; // 1ÀÇ ÀÚ¸®
+    unsigned char tens = num / 10; // 10ì˜ ìë¦¬
+    unsigned char ones = num % 10; // 1ì˜ ìë¦¬
 
-    dispSeg(ones, 0); // 1ÀÇ ÀÚ¸® Ãâ·Â
+    dispSeg(ones, 0); // 1ì˜ ìë¦¬ ì¶œë ¥
     delay(10);
-    dispSeg(tens, 1); // 10ÀÇ ÀÚ¸® Ãâ·Â
+    dispSeg(tens, 1); // 10ì˜ ìë¦¬ ì¶œë ¥
     delay(10);
 
     duration++;

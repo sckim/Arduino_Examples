@@ -61,7 +61,7 @@ void SendMorseMsg(char *str) {
 }
 
 void setup() {
-	//toneÇÒ ¼ö¸¦ »ç¿ëÇÒ¶§´Â Ãâ·ÂÀ¸·Î ¼³Á¤ÇÏÁö ¾Ê´õ¶óµµ µÊ.
+	//toneí•  ìˆ˜ë¥¼ ì‚¬ìš©í• ë•ŒëŠ” ì¶œë ¥ìœ¼ë¡œ ì„¤ì •í•˜ì§€ ì•Šë”ë¼ë„ ë¨.
 	pinMode(speakerPin, OUTPUT);
 	pinMode(ledPin, OUTPUT);
 	Serial.begin(9600);

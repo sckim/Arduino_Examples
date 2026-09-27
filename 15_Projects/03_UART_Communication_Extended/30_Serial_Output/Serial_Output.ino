@@ -10,10 +10,10 @@
 
 #define cID	1
 
-//LED´Â µğÁöÅĞ 13¹ø ÇÉ¿¡ ¿¬°áµÇ¾î ÀÖÀ½
+//LEDëŠ” ë””ì§€í„¸ 13ë²ˆ í•€ì— ì—°ê²°ë˜ì–´ ìˆìŒ
 void setup(){
 	Serial.begin(cBaudRate);
-	// µğÁöÅĞÇÉ(13)À» Ãâ·ÂÀ¸·Î ¼³Á¤
+	// ë””ì§€í„¸í•€(13)ì„ ì¶œë ¥ìœ¼ë¡œ ì„¤ì •
 	
 	pinMode(LED, OUTPUT);
 	
@@ -37,9 +37,9 @@ byte getID(void)
 void loop() {
 	unsigned char ch;
 	
-	//LED¸¦ ÄÒ´Ù.
+	//LEDë¥¼ ì¼ ë‹¤.
 	digitalWrite(LED,HIGH);
-	//1ÃÊ ´ë±â
+	//1ì´ˆ ëŒ€ê¸°
 	delay(500);
 	
 	Serial.write(cHeader);
@@ -50,9 +50,9 @@ void loop() {
 	Serial.write((byte)Firmware_Version);
 	Serial.write('\n');
 
-	//LED¸¦ ²ö´Ù.
+	//LEDë¥¼ ëˆë‹¤.
 	digitalWrite(LED,LOW);
-	//1ÃÊ ´ë±â
+	//1ì´ˆ ëŒ€ê¸°
 	delay(500);
 }
 

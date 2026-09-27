@@ -39,12 +39,12 @@ void setup() {
 
 }
 
-/* Arduino UNO¿¡¼­ PWMÀº
+/* Arduino UNOì—ì„œ PWMì€
  *
  * Arduino Pins 5 and 6: 1kHz, timer 0
  * Arduino Pins 9, 10, 11, and 3: 500Hz, timer 1, 2
  *
- * ¾Æ·¡ »çÀÌÆ®¿¡ ÀÚ¼¼È÷ ³ª¿Í ÀÖÀ½
+ * ì•„ë˜ ì‚¬ì´íŠ¸ì— ìì„¸íˆ ë‚˜ì™€ ìˆìŒ
  * https://arduino-info.wikispaces.com/Arduino-PWM-Frequency
  */
 

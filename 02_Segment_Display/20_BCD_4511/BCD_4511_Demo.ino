@@ -36,11 +36,11 @@ unsigned char num = 0;
 
 void loop()
 { 
-  // unsigned char tens = num / 10; // 10ÀÇ ÀÚ¸®
-  // unsigned char ones = num % 10; // 1ÀÇ ÀÚ¸®
+  // unsigned char tens = num / 10; // 10ì˜ ìžë¦¬
+  // unsigned char ones = num % 10; // 1ì˜ ìžë¦¬
   
-  dispNum(num, 0); // 0ÀÇ ÀÚ¸® Ãâ·Â
-  dispNum(num+1, 1); // 1ÀÇ ÀÚ¸® Ãâ·Â
+  dispNum(num, 0); // 0ì˜ ìžë¦¬ ì¶œë ¥
+  dispNum(num+1, 1); // 1ì˜ ìžë¦¬ ì¶œë ¥
    
   num++;
   if (num > 9) 

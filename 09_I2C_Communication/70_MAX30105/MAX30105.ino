@@ -5,7 +5,7 @@
 #define nEEG	100
 
 #define nSamplingRate	400
-#define nSampleAverage	8    // ½ÇÁ¦ »ùÇÃ¸µ ÁÖÆÄ¼ö´Â 400/8ÇÏ¿© 50Hz°¡ µÈ´Ù.
+#define nSampleAverage	8    // ì‹¤ì œ ìƒ˜í”Œë§ ì£¼íŒŒìˆ˜ëŠ” 400/8í•˜ì—¬ 50Hzê°€ ëœë‹¤.
 
 long startTime;
 long samplesTaken = 0; //Counter for calculating the Hz or read rate
