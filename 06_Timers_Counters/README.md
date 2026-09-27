@@ -11,17 +11,14 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (3개)
 
-기준일 2026-09-21. 예제 3개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Timer_Overflow` | `Timer_Overflow.ino` | 있음 (Proteus) |
-| `20_Timer_CTC` | `Timer.ino` | 있음 (Proteus) |
-| `40_Osc1MHz` | `Osc1MHz.ino` | — |
-
-> ℹ️ `Timer0_CTC`, `1MHz`, `2MHz`, `Clock1MHz`(세그먼트 결합·중복 변형·수동 레지스터 클럭 생성)는 `15_Projects/06_Timers_Counters_Extended/`로 옮겼습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Timer_Overflow` |  | 1 | 21 |  | ✓ |  |  |
+| `20_Timer_CTC` | Timer0을 이용하여 1초마다 overflow | 1 | 59 |  | ✓ |  |  |
+| `40_Osc1MHz` |  | 1 | 35 |  |  |  |  |
 
 <!-- AUTO-INDEX:END -->

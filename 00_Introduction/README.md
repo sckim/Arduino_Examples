@@ -46,9 +46,17 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (6개)
 
-기준일 2026-09-21. 예제 폴더 6개(`10_Data_Types` ~ `60_String`), 참고 파일(`Template.ino`, `CodingStyle.md`, `.url` 3개) 보유.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Data_Types` | C(아두이노)의 가장 기본적인 자료형을 정리한다. | 1 | 37 |  |  |  |  |
+| `20_Operators` | C의 기본 연산자와, 임베디드에서 특히 중요한 "비트 연산자"를 다룬다. | 1 | 45 |  |  |  |  |
+| `30_Control_Flow` | if/else, for, while, do-while, switch. | 1 | 72 |  |  |  |  |
+| `40_Functions` | 함수의 기본 형태(매개변수, 반환값)와, 매크로(#define)와의 차이를 다룬다. | 1 | 51 |  |  |  |  |
+| `50_Arrays_Pointers` | 배열과 포인터의 기초. | 1 | 48 |  |  |  |  |
+| `60_String` | " + String(sizeof(bool))); | 1 | 21 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

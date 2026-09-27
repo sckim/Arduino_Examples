@@ -17,17 +17,14 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (3개)
 
-기준일 2026-09-21. 예제 3개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Volatile` | `Volatile.ino` | 있음 (Proteus) |
-| `20_External_Interrupt` | `External_Interrupt.ino` | — |
-| `30_PCInterrupt` | `PCInterrupt.ino` | 있음 (Proteus) |
-
-> ℹ️ `PCInterrupt`와 거의 같은 변형인 `PCINT`, `PCIntSetup`은 `15_Projects/05_Interrupts_Extended/`로 옮겼습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Volatile` |  | 1 | 16 |  | ✓ |  |  |
+| `20_External_Interrupt` | ATmega328P의 두 가지 인터럽트 방식 중 더 기본적인 "외부 인터럽트"(External | 1 | 37 |  |  |  |  |
+| `30_PCInterrupt` |  | 1 | 33 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

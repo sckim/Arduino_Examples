@@ -18,17 +18,16 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (5개)
 
-기준일 2026-09-21. 예제 5개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Watchdog_Basic` | `Watchdog_Basic.ino` | — |
-| `20_Sleep_delay` | `Sleep_delay.ino` | — |
-| `30_IDLE_Sleep_ExtInterrupt` | `IDLE_Sleep_ExtInterrupt.ino` | — |
-| `40_Deep_Sleep_ExtInterrupt` | `Deep_Sleep_ExtInterrupt.ino` | — |
-| `50_Power_Management` | `Power_Management.ino` | — |
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Watchdog_Basic` | wdt_enable() / wdt_reset() 를 이용한 워치독 타이머(Watchdog Ti | 1 | 49 |  |  |  |  |
+| `20_Sleep_delay` | Start watchdog timer | 1 | 85 |  |  |  |  |
+| `30_IDLE_Sleep_ExtInterrupt` |  | 1 | 36 |  |  |  |  |
+| `40_Deep_Sleep_ExtInterrupt` | when coming back from POWER-DOWN mode, it takes a bi | 1 | 131 |  |  |  |  |
+| `50_Power_Management` | 앞의 두 개념, Watchdog Timer(안정성)와 Sleep Mode(절전)를 결합해서 | 1 | 69 |  |  |  |  |
 
 <!-- AUTO-INDEX:END -->

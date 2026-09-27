@@ -23,19 +23,16 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (5개)
 
-기준일 2026-09-21. 예제 5개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Serial` | `Serial.ino` | — |
-| `20_Print` | `ASCIITable.ino` | — |
-| `30_Serial_Input` | `Serial_Input.ino` | — |
-| `40_SerialEvent` | `SerialEvent.ino` | — |
-| `50_Comm_UART` | `Comm_2Arduino.ino` | 있음 (Proteus) |
-
-> ℹ️ 다중기기 통신·커스텀 프로토콜·SD 로깅 등 응용/중복 예제 12개는 `15_Projects/03_UART_Communication_Extended/`로 옮겼습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Serial` |  | 1 | 8 |  |  |  |  |
+| `20_Print` | No external hardware needed. | 1 | 39 |  |  |  |  |
+| `30_Serial_Input` | Serial port를 통해서 컴퓨터의 명령어를 받아서 이에 반응하는 프로그램 | 1 | 36 |  |  |  |  |
+| `40_SerialEvent` | The serialEvent() feature is not available on the Le | 1 | 40 |  |  |  |  |
+| `50_Comm_UART` |  | 1 | 22 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

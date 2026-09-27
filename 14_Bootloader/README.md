@@ -18,15 +18,14 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (3개)
 
-기준일 2026-09-21. 예제 3개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_MCUSR_ResetReason` | `MCUSR_ResetReason.ino` | — |
-| `20_Read_Signature_Fuses` | `Read_Signature_Fuses.ino` | — |
-| `30_optiboot` | `optiboot.c` | — |
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_MCUSR_ResetReason` | 부트로더는 스케치가 시작되기 전에 "MCU가 왜 리셋됐는가"를 확인해서 | 1 | 42 |  |  |  |  |
+| `20_Read_Signature_Fuses` | 부트로더가 어떻게 설치/동작하는지는 결국 칩의 "퓨즈 비트(Fuse Bits)"가 | 1 | 58 |  |  |  |  |
+| `30_optiboot` | See README.TXT            */ | 2 | 1129 |  |  |  |  |
 
 <!-- AUTO-INDEX:END -->

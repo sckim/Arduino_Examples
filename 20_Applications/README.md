@@ -11,21 +11,19 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (8개)
 
-기준일 2026-09-21. 항목 9개.
-
-| 폴더 | 내용 |
-|---|---|
-| `50_DigitalFilter` | 디지털 필터링 기초(이동평균 등)로 센서 노이즈 제거 |
-| `60_FIR_filter` | FIR(유한 임펄스 응답) 필터를 이용한 신호 처리 |
-| `AFE4300` | 생체 임피던스 측정 칩(AFE4300) 응용 |
-| `Datalog` | Arduino IDE 표준 SD카드 데이터 로거 예제 |
-| `IRremote` | 적외선 리모컨 송수신 라이브러리/예제 |
-| `MatrixMath` | 행렬 연산 라이브러리 예제 (SPI와 무관한 순수 수학 예제) |
-| `Simple_Sensors_Extended` | 센서 모듈 예제 15개: `Joystick`, `HC_SR04`/`SFR05`/`Ultrasound`(초음파), `Encoder`/`RotaryEncoder`, `Keypad`, `PS2Keyboard`, `RF433` 송수신 등 |
-| `Spal_9DOF_v4` | 9DOF IMU 센서퓨전(AHRS) 응용 프로젝트 |
-| `_4digits_LED` | 4자리 LED 표시 + PEMF 전용 통합 프로젝트 |
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `50_DigitalFilter` |  | 1 | 37 |  |  |  |  |
+| `60_FIR_filter` |  | 1 | 29 | ✓ |  |  |  |
+| `AFE4300` | Soochan Kim | 2 | 741 |  |  |  |  |
+| `Datalog` | SDCARD_SS_PIN, for Teensy 3.5  BUILTIN_SDCARD) | 1 | 93 |  |  |  |  |
+| `IRremote` |  | 1 | 76 |  | ✓ |  |  |
+| `MatrixMath` |  | 1 | 56 |  |  |  |  |
+| `Simple_Sensors_Extended` |  | 15 | 889 |  | ✓ |  |  |
+| `Spal_9DOF_v4` |  | 6 | 939 |  |  |  |  |
 
 <!-- AUTO-INDEX:END -->

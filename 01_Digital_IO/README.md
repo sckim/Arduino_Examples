@@ -46,18 +46,15 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (4개)
 
-기준일 2026-09-21. 예제 4개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Blink` | `src/main.cpp` | 있음 (Proteus) |
-| `20_Button` | `Button.ino` | 있음 (Proteus) + Wokwi |
-| `30_LED_bar` | `LED_bar.ino` | — |
-| `40_ShiftOut` | `ShiftOut.ino` | — |
-
-> ℹ️ **정리 내역**: Blink 중복 변형 5개와 응용 예제 `Morse`는 `15_Projects/01_Digital_IO_Extended/`로, PEMF 전용 통합 코드 `_4digits_LED`는 `20_Applications/`로 옮겼습니다. `10_Blink`는 VS Code+PlatformIO 템플릿으로 유지하고, 나머지는 `.ino` 파일 하나로 단순화했습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Blink` |  | 1 | 10 | ✓ | ✓ |  |  |
+| `20_Button` |  | 1 | 15 |  | ✓ |  |  |
+| `30_LED_bar` |  | 1 | 24 |  |  |  |  |
+| `40_ShiftOut` | shiftOutCode, Hello World | 1 | 19 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

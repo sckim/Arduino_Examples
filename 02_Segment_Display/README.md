@@ -14,17 +14,14 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (3개)
 
-기준일 2026-09-21. 예제 3개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_7Segments` | `7Segments.ino` | 있음 (Proteus) |
-| `20_BCD_4511` | `BCD_4511_Demo.ino` | 있음 (Proteus) |
-| `30_Two_7Segments` | `Two_7Segments.ino` | 있음 (Proteus) + Wokwi |
-
-> ℹ️ 중복인 `RawPattern`과 타이머+인터럽트를 결합한 `SegDisplayInt`는 `15_Projects/02_Segment_Display_Extended/`로 옮겼습니다. `SegDisplayInt`는 `05_Interrupts`, `06_Timers_Counters`를 먼저 학습한 뒤 시도하세요.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_7Segments` | 핀 하나하나를 개별적으로 제어하여 프로그램하는 예 | 1 | 35 |  | ✓ |  |  |
+| `20_BCD_4511` |  | 1 | 39 |  | ✓ |  |  |
+| `30_Two_7Segments` |  | 1 | 43 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

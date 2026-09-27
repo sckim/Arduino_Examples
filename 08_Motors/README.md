@@ -15,16 +15,13 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (2개)
 
-기준일 2026-09-21. 예제 2개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Servo1` | `Servo1.ino` | 있음 (Proteus) |
-| `30_Stepper_motor` | `Stepper_motor.ino` | 있음 (Proteus) |
-
-> ℹ️ 조이스틱+서보 2개 응용인 `RC_Servo`는 `15_Projects/08_Motors_Extended/`로 옮겼습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Servo1` |  | 1 | 22 |  | ✓ |  |  |
+| `30_Stepper_motor` |  | 1 | 14 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

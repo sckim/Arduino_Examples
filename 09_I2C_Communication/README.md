@@ -17,23 +17,19 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (8개)
 
-기준일 2026-09-21. 예제 9개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_i2c_scanner` | `i2c_scanner.ino` | 있음 (Proteus) |
-| `20_I2C_write` | `I2C_write.ino` | — |
-| `30_LCD_I2Cm` | `LCD_I2Cm.ino` | 있음 (Proteus) |
-| `40_DS1307` | `DS1307.ino` | — |
-| `41_RTC_TimeSet.ino` | 단일 파일 | — |
-| `50_LM75` | `LM75_test.ino` | — |
-| `60_PCF8574` | `PCF8574.ino` | 있음 (Proteus) |
-| `70_MAX30105` | `MAX30105.ino` | — |
-| `80_ADXL345` | `ADXL345.cpp` | — |
-
-> ℹ️ 기기별 심화/중복 변형 31개(LCD 변형, 자력계·자이로, MPU9150 캘리브레이션 시리즈 등)는 `15_Projects/09_I2C_Communication_Extended/`로 옮겼습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_i2c_scanner` |  | 1 | 44 |  | ✓ |  |  |
+| `20_I2C_write` |  | 1 | 46 |  |  |  |  |
+| `30_LCD_I2Cm` |  | 1 | 13 |  | ✓ |  |  |
+| `40_DS1307` |  | 1 | 38 |  |  |  |  |
+| `50_LM75` | you can redistribute it and/or modify | 2 | 122 |  |  |  |  |
+| `60_PCF8574` | PCF8574.cpp | 2 | 184 |  | ✓ |  |  |
+| `70_MAX30105` | Output all the raw Red/IR/Green readings | 15 | 1570 |  |  |  |  |
+| `80_ADXL345` | :ADXL345(){ | 1 | 144 |  |  |  |  |
 
 <!-- AUTO-INDEX:END -->

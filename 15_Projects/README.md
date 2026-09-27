@@ -12,20 +12,19 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (8개)
 
-기준일 2026-09-21. 하위 그룹 8개, 예제 68개.
-
-| 그룹 | 예제 수 | 내용 |
-|---|---|---|
-| `01_Digital_IO_Extended` | 6 | Blink 중복 변형 5개, `Morse`(타이밍+버튼+스피커 응용) |
-| `02_Segment_Display_Extended` | 2 | `RawPattern`(중복), `SegDisplayInt`(타이머 인터럽트 잔상 구동) |
-| `03_UART_Communication_Extended` | 12 | 다중기기 통신, 커스텀 프로토콜 파싱, 시리얼 터미널, OpenLog SD 로깅 등 |
-| `05_Interrupts_Extended` | 2 | `PCInterrupt`의 변형(`PCINT`, `PCIntSetup`) |
-| `06_Timers_Counters_Extended` | 4 | `Timer0_CTC`, `1MHz`/`2MHz`, `Clock1MHz`(수동 레지스터 클럭 생성) |
-| `08_Motors_Extended` | 1 | `RC_Servo`(조이스틱+서보 2개) |
-| `09_I2C_Communication_Extended` | 31 | LCD 변형, 자력계·자이로, ICM 신형 칩, MPU9150 9DOF 캘리브레이션 시리즈, Weather_shield 등 |
-| `10_SPI_Communication_Extended` | 10 | `MAX7219`, 디지털 팟 변형(MCP410x/41xx/ad5162/mcp4161/5206), `AFE4490`, `SdFat`, `RF22` |
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `01_Digital_IO_Extended` | LED는 디지털 13번 핀에 연결되어 있음 | 7 | 184 |  | ✓ |  |  |
+| `02_Segment_Display_Extended` | 핀 하나하나를 개별적으로 제어하여 프로그램하는 예 | 2 | 96 |  | ✓ |  |  |
+| `03_UART_Communication_Extended` | 0, TX:1 핀 사용) | 93 | 14040 |  | ✓ |  |  |
+| `05_Interrupts_Extended` |  | 2 | 89 |  | ✓ |  |  |
+| `06_Timers_Counters_Extended` |  | 4 | 134 |  | ✓ |  |  |
+| `08_Motors_Extended` |  | 1 | 32 |  |  |  |  |
+| `09_I2C_Communication_Extended` | Accelerometer | 83 | 16061 |  | ✓ |  |  |
+| `10_SPI_Communication_Extended` | None | 96 | 14972 |  | ✓ |  |  |
 
 <!-- AUTO-INDEX:END -->

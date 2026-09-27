@@ -15,17 +15,14 @@
 ---
 
 <!-- AUTO-INDEX:BEGIN -->
+<!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-27 -->
 
-## 🗂 폴더 현황 (자동 생성)
+### 📂 예제 (3개)
 
-기준일 2026-09-21. 예제 3개.
-
-| 폴더 | 소스 | 회로도 |
-|---|---|---|
-| `10_Comm_SPI` | `Comm_SPI.ino` | 있음 (Proteus) |
-| `40_DigitalPot` | `DigitalPot.ino` | — |
-| `50_MCP3208` | `MCP3208.ino` | — |
-
-> ℹ️ `MAX7219`, 디지털 팟 변형, `AFE4490`, `SdFat`, `RF22` 등은 `15_Projects/10_SPI_Communication_Extended/`로 옮겼습니다. SPI와 무관한 행렬 수학 예제 `MatrixMath`는 `20_Applications/`에 있습니다.
+| 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
+|---|---|---:|---:|:---:|:---:|:---:|:---:|
+| `10_Comm_SPI` |  | 1 | 53 |  | ✓ |  |  |
+| `40_DigitalPot` |  | 1 | 26 |  |  |  |  |
+| `50_MCP3208` |  | 1 | 51 |  |  |  |  |
 
 <!-- AUTO-INDEX:END -->
