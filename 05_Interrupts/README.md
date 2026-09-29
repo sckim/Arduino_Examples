@@ -19,12 +19,14 @@
 <!-- AUTO-INDEX:BEGIN -->
 <!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-29 -->
 
-### 📂 예제 (3개)
+### 📂 예제 (5개)
 
 | 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
 |---|---|---:|---:|:---:|:---:|:---:|:---:|
 | `10_Volatile` |  | 1 | 16 |  | ✓ |  |  |
-| `20_External_Interrupt` | ATmega328P의 두 가지 인터럽트 방식 중 더 기본적인 "외부 인터럽트"(External | 1 | 37 |  |  |  |  |
+| `20_External_Interrupt` | ATmega328P의 두 가지 인터럽트 방식 중 더 기본적인 "외부 인터럽트"(External | 2 | 76 | ✓ |  |  |  |
+| `22_Interrupt_Modes` | 트리거 모드를 바꿔 보고, loop 가 멈추지 않는 것을 확인한다 | 1 | 31 | ✓ |  |  |  |
 | `30_PCInterrupt` |  | 1 | 33 |  | ✓ |  |  |
+| `32_PCInterrupt_Count` | 핀 체인지 인터럽트로 2·3번 아닌 핀에서 인터럽트를 쓴다 | 1 | 41 | ✓ |  |  |  |
 
 <!-- AUTO-INDEX:END -->
