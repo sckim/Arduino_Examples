@@ -25,13 +25,15 @@
 <!-- AUTO-INDEX:BEGIN -->
 <!-- gen_index.py가 만든다. 손으로 고치지 마세요. 기준일 2026-09-29 -->
 
-### 📂 예제 (5개)
+### 📂 예제 (7개)
 
 | 폴더 | 내용 | 소스 | 줄 | PlatformIO | 회로도 | Wokwi | README |
 |---|---|---:|---:|:---:|:---:|:---:|:---:|
-| `10_Serial` |  | 1 | 8 |  |  |  |  |
+| `10_Serial` | 시리얼로 PC 에 한 줄 보내기 | 2 | 20 | ✓ |  |  |  |
+| `12_UART_Scope` | 계측기로 파형을 읽기 좋은 값을 내보낸다 | 1 | 15 | ✓ |  |  |  |
 | `20_Print` | No external hardware needed. | 1 | 39 |  |  |  |  |
 | `30_Serial_Input` | Serial port를 통해서 컴퓨터의 명령어를 받아서 이에 반응하는 프로그램 | 1 | 36 |  |  |  |  |
+| `32_Serial_Command` | PC 가 보낸 글자를 받아 동작을 바꾼다 | 1 | 28 | ✓ |  |  |  |
 | `40_SerialEvent` | The serialEvent() feature is not available on the Le | 1 | 40 |  |  |  |  |
 | `50_Comm_UART` |  | 1 | 22 |  | ✓ |  |  |
 
