@@ -55,7 +55,7 @@
 | `10_Blink` |  | 1 | 10 | ✓ | ✓ |  |  |
 | `20_Button` |  | 1 | 15 |  | ✓ |  |  |
 | `22_Button_Serial` | 버튼을 digitalRead 로 읽고 그 값을 시리얼로 본다 | 1 | 20 | ✓ |  |  |  |
-| `30_LED_bar` |  | 1 | 24 |  |  |  |  |
+| `30_LED_bar` | 가변저항 값을 LED 8개의 막대 그래프로 표시한다 | 2 | 57 | ✓ |  |  |  |
 | `40_ShiftOut` | shiftOutCode, Hello World | 1 | 19 |  | ✓ |  |  |
 | `50_Bit_Mask` | 바이트 하나의 비트를 꺼내 LED 8개로 내보낸다 | 1 | 30 | ✓ |  |  |  |
 
