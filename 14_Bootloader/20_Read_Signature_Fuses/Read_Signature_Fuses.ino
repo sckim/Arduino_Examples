@@ -10,7 +10,7 @@
  *
  * 참고 - ATmega328P 기준:
  *   - Signature: 0x1E 0x95 0x0F  (device signature, 데이터시트로 칩 종류 확인)
- *   - Optiboot(30_optiboot)는 보통 BOOTSZ=512words(1KB)로 설정해서 사용한다.
+ *   - 우노의 Optiboot(30_optiboot)는 BOOTSZ=11, 256 words(512 B)로 0x7E00 부터 쓴다.
  *
  * 선행 학습: 10_MCUSR_ResetReason
  * 다음 단계: 30_optiboot (실제 부트로더 소스 코드)
